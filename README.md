@@ -1,2 +1,2 @@
 # DD-Dokumentacija
-Dokumentacija skupine Kompajler pri projektu Digitalni dvojček - FERI
+[Dokumentacija](https://github.com/aljosagolob/DD-Dokumentacija/wiki) skupine Kompajler pri projektu Digitalni dvojček - FERI 
